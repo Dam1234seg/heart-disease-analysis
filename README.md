@@ -13,12 +13,12 @@ This project walks through a complete data science pipeline — from raw data to
 - Build and evaluate machine learning models to predict heart disease presence
 - Summarize insights in a way that's useful for both technical and non-technical audiences
 
-## 🗂️ Dataset
+##  Dataset
 
 - **Source:** Kaggle
 - **Description:** Patient-level clinical data including features such as age, sex, chest pain type, resting blood pressure, cholesterol, fasting blood sugar, ECG results, max heart rate, exercise-induced angina, and target diagnosis (presence/absence of heart disease)
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - **Language:** Python
 - **Libraries:** pandas, NumPy, matplotlib, seaborn, scikit-learn (KNeighborsClassifier, LogisticRegression, RandomForestClassifier, GridSearchCV, RandomizedSearchCV)
@@ -43,7 +43,7 @@ This project walks through a complete data science pipeline — from raw data to
 - **Sex, thalassemia (thal), and number of major vessels (ca)** were the strongest negative predictors in this dataset
 - Chest pain type showed the highest correlation (0.43) with heart disease diagnosis among all features
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 heart-disease-analysis/
