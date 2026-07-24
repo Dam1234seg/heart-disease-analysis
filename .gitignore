@@ -21,11 +21,11 @@ ENV/
 .env.local
 
 # Data files (often too large or sensitive for GitHub)
-*.csv
-*.xlsx
-*.xls
-data/raw/
-data/processed/
+# *.csv
+# *.xlsx
+# *.xls
+# data/raw/
+# data/processed/
 
 # Model files (can get large)
 *.pkl
